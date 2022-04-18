@@ -23,4 +23,10 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C...
 
 📫 To reach me themaheshkamble@gmail.com
 
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamblemaheshg&show_icons=true&theme=radical)
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamblemaheshg&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
