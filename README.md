@@ -9,8 +9,9 @@ Also I like to build up things with communities.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , Java , C++ , MYSQL , C...
+Javascript, HTML, CSS , Java , C++ , MYSQL , C
 
+## 📩 My [Resume](https://drive.google.com/file/d/1Tq8VmcilDXi8uQ9gh5iAdDh2tnljjdvX/view?usp=sharing) 
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on DSA
@@ -30,3 +31,7 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C...
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamblemaheshg&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
+If I am perfect for your project you can inform me on my mail. I feel happy to give my contribution.
