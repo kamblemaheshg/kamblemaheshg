@@ -13,7 +13,7 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C
 
 ## 📩 My [Resume](https://drive.google.com/file/d/1Tq8VmcilDXi8uQ9gh5iAdDh2tnljjdvX/view?usp=sharing) 
 
-## Other Common Github Profile Sections
+## Other:
 👩‍💻 I'm currently working on DSA
 
 🧠 I'm currently learning ML
