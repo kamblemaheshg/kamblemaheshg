@@ -1,4 +1,4 @@
-# Hi, I'm Mahesh! 👋
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm [Mahesh!](https://linkedin.com/in/mahesh-kamble-56829922a/)
 
 ## 🚀 About Me
 I'm a Computer Science Student.
