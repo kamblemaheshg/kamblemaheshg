@@ -20,7 +20,7 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C
 
 👯‍♀️ I'm looking to collaborate on group projects
 
-🤔 I'm looking for help with my colleague
+<!-- 🤔 I'm looking for help with my colleague -->
 
 📫 To reach me themaheshkamble@gmail.com
 
