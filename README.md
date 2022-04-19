@@ -28,7 +28,9 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamblemaheshg&theme=buefy" alt="Mahesh-Stats" />
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamblemaheshg&show_icons=true&theme=buefy" alt="Mahesh-Stats" />
-  
+<hr>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kamblemaheshg&theme=buefy"> 
+
  ## Languages-Used 📝
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamblemaheshg&hide=javascript,html&theme=buefy" alt="Mahesh-Stats" />
   
