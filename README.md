@@ -36,7 +36,7 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C
   
 ##
 
-<img src="https://user-images.githubusercontent.com/90838761/163862808-88ececf1-8341-4afa-bcf6-6c6b198fd542.jpg" height="50%" style="max-height=50%; margin=0;padding=0;" align="center">
+<img src="https://user-images.githubusercontent.com/90838761/165142161-2eb05c72-0339-4af9-80d2-126788f6a981.jpeg" height="50%" style="max-height=50%; margin=0;padding=0;" align="center">
 
 ##
 
@@ -45,6 +45,5 @@ Javascript, HTML, CSS , Java , C++ , MYSQL , C
 ##
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{kamblemaheshg}/count.svg) -->
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamblemaheshg&label=Profile%20Views&color=orange&style=flat" alt="mahesh-visits" /> </p>
