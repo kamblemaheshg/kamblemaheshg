@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm [Mahesh!](https://linkedin.com/in/mahesh-kamble-56829922a/) <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="54.1%" style="max-width=100%; margin=0;padding=0; display=flex" align="right">
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> , I'm [Mahesh!](https://linkedin.com/in/mahesh-kamble-56829922a/) <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="54.1%" style="max-width=100%; margin=0;padding=0; display=flex" align="right">
  
 ## 🚀 About Me
 I'm a Computer Science Student.
@@ -11,7 +11,7 @@ Also I like to build up things with communities.
 ## 🛠 Skills
 Javascript, HTML, CSS , Java , C++ , MYSQL , C
 
-## 📩 My [Resume](shorturl.at/fkAEP) 
+## 📩 My [Resume](https://drive.google.com/file/d/1vOL_N-wr2jJ9RahSVPkSO9N4AT9K3QTD/view?usp=sharing) 
 
 ## Other:
 👩‍💻 I'm currently working on DSA
