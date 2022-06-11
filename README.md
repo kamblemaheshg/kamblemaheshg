@@ -11,7 +11,7 @@ Also I like to build up things with communities.
 ## 🛠 Skills
 Javascript, HTML, CSS , Java , C++ , MYSQL , C
 
-## 📩 My [Resume](https://drive.google.com/file/d/1vOL_N-wr2jJ9RahSVPkSO9N4AT9K3QTD/view?usp=sharing) 
+## 📩 My [Resume](https://drive.google.com/file/d/1xCaVu61TbVelgZ6eoo0_T_C5_A8iahFO/view) 
 
 ## Other:
 👩‍💻 I'm currently working on DSA
